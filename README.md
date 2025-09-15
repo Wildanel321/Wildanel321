@@ -1,7 +1,6 @@
 <h1 align="center">Hey My name   is Wildan Nur I'm from Toyamas 🛡️</h1>
 
 ###
-![pacman](https://raw.githubusercontent.com/Wildanel321/Wildanel321/output/pacman-contribution-graph.svg?token=${{ github.run_id }})
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
