@@ -102,6 +102,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wildanel321/Wildanel321/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wildanel321/Wildanel321/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Wildanel321/Wildanel321/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Wildanel321.Wildanel321&left_color=darkslategray&right_color=maroon&left_text=Delok"  />
 
 ###
